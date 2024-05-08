@@ -2,6 +2,9 @@ package listaprofessorwilson;
 import java.util.Scanner;
 public class exerc13 { 
     public static void main(String[] args) {
+          //verificar se o valor informado pelo usuario é maior, menor ou igual a 10.
+
+
         System.out.println("digite um numero: ");
         Scanner lerNum = new Scanner(System.in);
         float numero = lerNum.nextFloat();

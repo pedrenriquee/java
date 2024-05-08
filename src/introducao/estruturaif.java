@@ -1,3 +1,4 @@
+package introducao;
 public class estruturaif {
     public static void main(String[] args) {
         // a fução math.random só aceita double com tipo

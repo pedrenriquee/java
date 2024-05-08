@@ -1,3 +1,4 @@
+package introducao;
 public class estruturaswitch {
         public static void main(String[] args) {
             int dado = (int) Math.round(Math.random() * 1) + 1;

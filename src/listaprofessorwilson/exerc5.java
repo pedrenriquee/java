@@ -14,7 +14,7 @@ public class exerc5 {
         String recebe = vlrf.format(numero1);
 
         
-        System.out.println("voce informou o numero: "+ vlrf.format(numero1));
+        System.out.println("voce informou o numero: "+recebe);
         lerNum1.close();
 
         //codigo não apresenta resultado esperado
