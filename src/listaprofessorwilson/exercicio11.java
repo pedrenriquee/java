@@ -13,7 +13,7 @@ public class exercicio11 {
         System.out.println("numero --> "+numero+"\no dobro de numero--> "+numero*2);
 
 
-
+        lernumero.close();
 
     }
 }
