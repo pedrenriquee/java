@@ -1,6 +1,5 @@
-// Estamos importando a biblioteca Scanner para ler dados informados pelo usuario
 package codigoBanco;
-
+// Estamos importando a biblioteca Scanner para ler dados informados pelo usuario
 import java.util.Scanner;
 
 // Estamos implementando a classe Conta, da qual vamos herdar Poupanca, etc...
@@ -162,7 +161,7 @@ if (check()) {
 }
 }
 else
-Systen.out.println("Limite de saques mensais EXCEDIDO!!");
+System.out.println("Limite de saques mensais EXCEDIDO!!");
 return false;
 }
 }
