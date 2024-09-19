@@ -1,5 +1,5 @@
 package codigoBanco;
-// Estamos importando a biblioteca Scanner para ler dados informados pelo usuario
+/*// Estamos importando a biblioteca Scanner para ler dados informados pelo usuario
 import java.util.Scanner;
 
 // Estamos implementando a classe Conta, da qual vamos herdar Poupanca, etc...
@@ -168,7 +168,7 @@ return false;
 
 //Tarefa2!!!
 // Implementar a classe Salario
-// Tera as mesmas regras da conta normal, porem, com limite de um unico deposito por mes...
+// Tera as mesmas regras da conta normal, porem, com limite de um unico deposito por mes... */
 
 
 
