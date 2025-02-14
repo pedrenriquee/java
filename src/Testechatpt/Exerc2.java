@@ -9,7 +9,6 @@ public class Exerc2 {
         for(int i =0; i<numeros.length;i++){
             if(numeros[i]%2==0){
                 somador = somador + 1;
-
             }
         }
         return somador;
@@ -20,5 +19,4 @@ public class Exerc2 {
         int result = ContarPares(numeros);
         System.out.println(result);
     }
-
 }
