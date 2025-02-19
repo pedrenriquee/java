@@ -1,18 +1,30 @@
-## Getting Started
+# Repositório de Estudos em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao meu repositório dedicado aos estudos de Java. Este espaço contém exercícios e exemplos que abrangem conceitos fundamentais e intermediários da linguagem.
 
-## Folder Structure
+## Estrutura do Projeto
 
-The workspace contains two folders by default, where:
+- **`src/`**: Contém o código-fonte dos exercícios e exemplos.
+- **`lib/`**: Destinado a dependências externas (atualmente não utilizado).
+- **`bin/`**: Diretório onde os arquivos compilados são armazenados.
+- **`out/`**: Saída de produção do projeto.
+- **`.idea/`**: Configurações do IntelliJ IDEA.
+- **`.vscode/`**: Configurações do Visual Studio Code.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Conteúdos Abordados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Estruturas de controle: `for`, `if`, `switch`, entre outras.
+- Manipulação de arrays e coleções.
+- Princípios de Programação Orientada a Objetos (POO):
+  - Classes e objetos
+  - Herança
+  - Polimorfismo
+  - Encapsulamento
+- Tratamento de exceções
+- Entrada e saída de dados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. **Clonar o repositório**:
+   ```bash
+   git clone https://github.com/pedrenriquee/java.git
